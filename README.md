@@ -1,2 +1,2 @@
 # Linear-Regression
-It is basic implementation of linear regression model using sklearn library
+It is a basic implementation of linear regression model using sklearn library
